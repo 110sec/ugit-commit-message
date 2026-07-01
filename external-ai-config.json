@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "provider": "openai",
+  "endpoint": "https://api.deepseek.com",
+  "apiKey": "",
+  "model": "deepseek-v4-flash"
+}
